@@ -1,2 +1,2 @@
 # Librerio
-Ube la personi povas komprar libri
+App test para venta de libros
